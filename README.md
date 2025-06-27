@@ -13,7 +13,7 @@ The project showcases an intelligent agent that can:
 ## 🛠️ Technology Stack
 
 - **[LangGraph](https://github.com/langchain-ai/langgraph)**: Reactive agent framework for building stateful, multi-actor applications
-- **[BrowserMCP](https://github.com/modelcontextprotocol/servers/tree/main/src/browser)**: Model Context Protocol server for browser automation
+- **[BrowserMCP](https://github.com/BrowserMCP/mcp)**: Model Context Protocol server for browser automation
 - **[Google Gemini](https://ai.google.dev/)**: Advanced language model for content generation
 - **[MCP (Model Context Protocol)](https://modelcontextprotocol.io/)**: Standardized protocol for connecting AI models with external tools
 
@@ -28,7 +28,7 @@ The project showcases an intelligent agent that can:
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd linked-job-apply
+   cd auto-browse
    ```
 
 2. **Install Python dependencies:**
@@ -154,5 +154,3 @@ This project is open source and available under the [MIT License](LICENSE).
 If you encounter any issues or have questions, please open an issue on GitHub or reach out to the maintainers.
 
 ---
-
-**Happy LinkedIn content creation! 🎉**
